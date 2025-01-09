@@ -15,6 +15,16 @@ function App() {
         voluptates impedit. Mollitia, dolores praesentium aspernatur nam
         quibusdam dolorum asperiores voluptatum.
       </p>
+
+      <div>
+        <p>This is for development</p>
+        <p>
+          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestias
+          similique rerum est aliquid? Expedita minus quidem beatae assumenda
+          cum dolores iste atque fugit nobis? Minima nesciunt repellendus earum
+          maxime eveniet?
+        </p>
+      </div>
     </>
   );
 }
