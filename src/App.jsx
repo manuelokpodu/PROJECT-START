@@ -15,6 +15,8 @@ function App() {
         voluptates impedit. Mollitia, dolores praesentium aspernatur nam
         quibusdam dolorum asperiores voluptatum.
       </p>
+      <h1>This is my contribution to the project</h1>
+      <p>Everybody love Temi</p>
 
       <div>
         <p>This is for development</p>
